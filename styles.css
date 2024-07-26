@@ -1,0 +1,29 @@
+html {
+    font-family: "Montserrat Alternates", Arial, Helvetica, sans-serif;
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+.format, th {
+    border: 2px, solid, #041E42;
+    color: white;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #5072A7;
+}
+
+td {
+    border: 2px, solid, #00CED1;
+    border-collapse: collapse;
+    background-color: #002D62;
+}
